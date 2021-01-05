@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.var
+*.ear
+*.log
+*.iml
+.idea/
+/out/
+.idea
+/javafx-sdk-14/
